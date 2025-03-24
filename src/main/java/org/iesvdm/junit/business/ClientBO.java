@@ -12,3 +12,7 @@ public interface ClientBO {
 			throws DifferentCurrenciesException;
 
 }
+
+/**
+ * esto es un comentario
+ **/
